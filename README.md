@@ -1,5 +1,16 @@
-### Hi there 👋
+### About
 
+Pascal → Fortran → Delphi → C++ → C#, TSQL → PHP, MySQL, HTML, CSS, JS → Dart, Flutter
+
+### Contacts
+
+Mail: denis@filonov.pro
+
+Telegram: @filonov
+
+LinkedIn: denisfilonov
+
+Blog: filonov.org
 <!--
 **filonov/filonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
